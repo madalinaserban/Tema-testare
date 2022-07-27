@@ -1,0 +1,7 @@
+C:\Cursuri Siemens\Curs testare\Tema testare\Tema_1\Tema_1\bin\Debug\Tema_1.exe.config
+C:\Cursuri Siemens\Curs testare\Tema testare\Tema_1\Tema_1\bin\Debug\Tema_1.exe
+C:\Cursuri Siemens\Curs testare\Tema testare\Tema_1\Tema_1\bin\Debug\Tema_1.pdb
+C:\Cursuri Siemens\Curs testare\Tema testare\Tema_1\Tema_1\obj\Debug\Tema_1.csproj.AssemblyReference.cache
+C:\Cursuri Siemens\Curs testare\Tema testare\Tema_1\Tema_1\obj\Debug\Tema_1.csproj.CoreCompileInputs.cache
+C:\Cursuri Siemens\Curs testare\Tema testare\Tema_1\Tema_1\obj\Debug\Tema_1.exe
+C:\Cursuri Siemens\Curs testare\Tema testare\Tema_1\Tema_1\obj\Debug\Tema_1.pdb
